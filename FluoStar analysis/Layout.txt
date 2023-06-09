@@ -1,0 +1,27 @@
+Sample X1,Low Flow 2% Sucr 0.25% GAL,Flo11-
+Sample X2,Low Flow 2% Sucr 0.25% GAL,Flo11- rep
+Sample X3,Low Flow 2% Sucr 0.25% GAL,Flo11- + MCR5101
+Sample X4,Low Flow 2% Sucr 0.25% GAL,Flo11- rep + HKE3402
+Sample X5,Low Flow 2% Sucr 0.25% GAL,MCR5101
+Sample X6,Low Flow 2% Sucr 0.25% GAL,MCR5101 + HKE3402
+Sample X7,"",""
+Sample X8,"",""
+Sample X9,"",""
+Sample X10,"",""
+Sample X11,"",""
+Sample X12,"",""
+Sample X13,"",""
+Sample X14,"",""
+Sample X15,"",""
+Sample X16,"",""
+Sample X17,"",""
+Sample X18,"",""
+Sample X19,"",""
+Sample X20,"",""
+Sample X21,"",""
+Sample X22,"",""
+Sample X23,"",""
+Sample X24,"",""
+Sample X25,"",""
+Sample X26,"",""
+Sample X27,"",""
